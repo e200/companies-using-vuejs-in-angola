@@ -1,4 +1,4 @@
-# Empresas que usam Vue.js em Angola
+# Empresas ou produtos que usam Vue.js em Angola
 
 Repositório de empresas ou produtos usando Vue.js em Angola
 
